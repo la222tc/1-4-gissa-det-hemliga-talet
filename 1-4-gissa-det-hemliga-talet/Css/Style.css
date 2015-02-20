@@ -1,0 +1,26 @@
+﻿body {
+}
+
+#ValidationSummary1, #GuessTextBoxRangeValidator{
+    color:red;
+}
+
+#guesses {
+    width:600px;
+}
+
+#theguess{
+    float:left
+}
+
+#theresult {
+    padding-right:10px;
+}
+
+#MessageP {
+    float:left;
+    width:100%;
+}
+#PrevguessP {
+    width:100%;
+}
